@@ -9,85 +9,85 @@ const items = [
   },
   {
     text: 'Þurisaz',
-    image: 'https://example.com/image2.jpg'
+    image: 'https://avatars.mds.yandex.net/i?id=bb6ac1d889880133bad5759fcc89b3e336a54cbf-12691405-images-thumbs&n=13'
   },
   {
     text: 'Ansuz',
-    image: 'https://example.com/image3.jpg'
+    image: 'https://avatars.mds.yandex.net/i?id=6b424c4755aa3b16da15430c4dd658c8b832becc-9882580-images-thumbs&n=13'
   },
   {
     text: 'Raidu',
-    image: 'https://example.com/image4.jpg'
+    image: 'https://avatars.mds.yandex.net/i?id=3c2b9081149e291ab0c2e75db1cd95c4ad93934c-5229005-images-thumbs&n=13'
   },
   {
     text: 'Wunju',
-    image: 'https://example.com/image5.jpg'
+    image: 'https://avatars.mds.yandex.net/i?id=f949ff055823580cb444269e562f59cb7316c080-12938662-images-thumbs&n=13'
   },
   {
     text: 'Hagalaz',
-    image: 'https://example.com/image6.jpg'
+    image: 'https://avatars.mds.yandex.net/i?id=37284abd7061a03550732077c315952dbd2c078c-10641465-images-thumbs&n=13'
   },
   {
-    text: 'Random text 7',
-    image: 'https://example.com/image7.jpg'
+    text: 'Naudiz',
+    image: 'https://avatars.mds.yandex.net/i?id=4346c8717a9f72382b7135a646e6de32ca977896-12716737-images-thumbs&n=13'
   },
   {
-    text: 'Random text 8',
-    image: 'https://example.com/image8.jpg'
+    text: 'Isaz',
+    image: 'https://avatars.mds.yandex.net/i?id=6aa1c233583efffce87c2ea14bc216682434e7e4-11003380-images-thumbs&n=13'
   },
   {
-    text: 'Random text 9',
-    image: 'https://example.com/image9.jpg'
+    text: 'Jara',
+    image: 'https://avatars.mds.yandex.net/i?id=3b282fcb64181bec3b15e6323487d5e3064f0ae1-10812288-images-thumbs&n=13'
   },
   {
-    text: 'Random text 10',
-    image: 'https://example.com/image10.jpg'
+    text: 'Iwaz',
+    image: 'https://avatars.mds.yandex.net/i?id=dddb3606e5a0dadf3789f24bb28f98cdb99aa648-8539554-images-thumbs&n=13'
   },
   {
-    text: 'Random text 11',
-    image: 'https://example.com/image11.jpg'
+    text: 'Perþu',
+    image: 'https://avatars.mds.yandex.net/i?id=a41ab7b673f13768f1f0e9012826d222-4697805-images-thumbs&n=13'
   },
   {
-    text: 'Random text 12',
-    image: 'https://example.com/image12.jpg'
+    text: 'Algiz',
+    image: 'https://avatars.mds.yandex.net/i?id=2a0000017a037552f5a9ea76418cf7c51834-4460890-images-thumbs&n=13'
   },
   {
-    text: 'Random text 13',
-    image: 'https://example.com/image13.jpg'
+    text: 'Sowilu',
+    image: 'https://avatars.mds.yandex.net/i?id=9569189da07dc37e6f799e330b045ae2_sr-9068872-images-thumbs&n=13'
   },
   {
-    text: 'Random text 14',
-    image: 'https://example.com/image14.jpg'
+    text: 'Tiwaz',
+    image: 'https://avatars.mds.yandex.net/i?id=42f94e1ad486224e65a12fa55be211f9f29fa0a8-9150622-images-thumbs&n=13'
   },
   {
-    text: 'Random text 15',
-    image: 'https://example.com/image15.jpg'
+    text: 'Berkana',
+    image: 'https://avatars.mds.yandex.net/i?id=9d2486e4d83f70a3763477e77e5d01059f802ccf-5233584-images-thumbs&n=13'
   },
   {
-    text: 'Random text 16',
-    image: 'https://example.com/image16.jpg'
+    text: 'Ehwaz',
+    image: 'https://avatars.mds.yandex.net/i?id=13aa7bdaca5ade4d2d4c0d4b9a14274227e10a55-12460761-images-thumbs&n=13'
   },
   {
-    text: 'Random text 17',
-    image: 'https://example.com/image17.jpg'
+    text: 'Mannaz',
+    image: 'https://avatars.mds.yandex.net/i?id=817d957d4e6d6c892cf0476a671c80c6fa545bc8-10841731-images-thumbs&n=13'
   },
   {
-    text: 'Random text 18',
-    image: 'https://example.com/image18.jpg'
+    text: 'Laguz',
+    image: 'https://avatars.mds.yandex.net/i?id=7b7adda94d5f2825f6fec8eb367d7ab73f0ebaa3-6974550-images-thumbs&n=13'
   },
   {
-    text: 'Random text 19',
-    image: 'https://example.com/image19.jpg'
+    text: 'Iŋwaz',
+    image: 'https://avatars.mds.yandex.net/i?id=38d753b894e116b0d955002aaf8f105632187655-11374488-images-thumbs&n=13'
   },
   {
-    text: 'Random text 20',
-    image: 'https://example.com/image20.jpg'
+    text: 'Dagaz',
+    image: 'hhttps://avatars.mds.yandex.net/i?id=868ae665e717f4c61d5d6677296c0563e80238b9-12932496-images-thumbs&n=13'
   },
   {
-    text: 'Random text 21',
-    image: 'https://example.com/image21.jpg'
+    text: 'Oþila',
+    image: 'https://avatars.mds.yandex.net/i?id=6b2b7ba28269ec4773ed6818bb025f5330c8565c-12614240-images-thumbs&n=13'
   },
-  {
+  /* {
     text: 'Random text 22',
     image: 'https://example.com/image22.jpg'
   },
@@ -98,7 +98,7 @@ const items = [
   {
     text: 'Random text 24',
     image: 'https://example.com/image24.jpg'
-  },
+  }, */
   
 ];
 
